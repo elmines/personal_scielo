@@ -1,7 +1,7 @@
 #!/bin/bash
 
-TITLE=es-en-gma-biological
-SOURCE_LANG=es
+TITLE=pt-en-gma-biological
+SOURCE_LANG=pt
 DEST_LANG=en
 
 TAR=${TITLE}.tar

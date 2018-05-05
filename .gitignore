@@ -1,3 +1,4 @@
 *.tar
 *.txt
 *.sh
+!gen_server.sh
